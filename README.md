@@ -5,8 +5,9 @@
 <h1 align="center">PusherHub</h1>
 
 <p align="center">
-  Push notifications and in-app messages for Android and iOS apps —<br>
-  sent through your own Firebase project, from one dashboard and one API.
+  A free push notification service for Android and iOS apps —<br>
+  push notifications and in-app messages sent through your own Firebase project<br>
+  (Firebase Cloud Messaging and the Apple Push Notification service), from one dashboard and one API.
 </p>
 
 <p align="center">
